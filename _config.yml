@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : vic.ma/blog
+tagline: Yeah, whatever.
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Victor Ma
+  email : victor.ma@gatech.edu
+  github : vicflair
   twitter : username
   feedburner : feedname
 
@@ -54,7 +54,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+  BASE_PATH : http://vicflair.github.io/blog
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
