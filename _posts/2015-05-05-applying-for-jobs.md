@@ -12,14 +12,14 @@ When I was leaving EPFL, I had the big task of applying for a job in Europe as a
 
 Starting in June, I submitted my CV and cover letter to over 75 jobs (30 in Switzerland, the rest through Europe) in the span of a couple months. Of these, I probably received just a couple dozen follows-up (e.g. clarifying my experience). These led to interviews or invitations to interview at:
 
-Akanoo
-Booking.com
-CrowdyNews
-Education4Sight
-GetYourGuide
-Trivago
-Spotify
-SwissQuote
+- Akanoo
+- Booking.com
+- CrowdyNews
+- Education4Sight
+- GetYourGuide
+- Trivago
+- Spotify
+- SwissQuote
 
 (*There were a few more invitations to interview, including at Apple, but these came long after I accepted a job offer in September.*)
 
